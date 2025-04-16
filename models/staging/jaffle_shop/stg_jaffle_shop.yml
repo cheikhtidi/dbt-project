@@ -23,7 +23,6 @@ models:
         tests:
           - accepted_values:
               values:
-                - completed
                 - shipped
                 - returned
                 - placed
